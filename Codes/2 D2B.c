@@ -14,7 +14,7 @@ int main()
 
     for(p=k-1; p>=0; p--)
     {
-        printf("%d",binary[p]);
+        printf("Binary: %d",binary[p]);
     }
 
     return 0;
